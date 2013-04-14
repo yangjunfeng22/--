@@ -1,7 +1,5 @@
 #import <UIKit/UIKit.h>
-/*
- tian jia zhengshu 
- */
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
